@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  padding: 50px;
+}
+.wrapper_emoji {
+  display: flex;
+  gap: 100px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  transition: transform 0.2s;
+}
+.wrapper_counter {
+  display: flex;
+  gap: 105px;
+  font-size: 20px;
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */
